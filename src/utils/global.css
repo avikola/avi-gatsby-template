@@ -15,3 +15,9 @@ body,
 div[role="group"][tabindex] {
   height: 100%;
 }
+
+div[role="group"][tabindex] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
