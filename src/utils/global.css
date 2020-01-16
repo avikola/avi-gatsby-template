@@ -1,0 +1,17 @@
+/* Insert fonts here */
+
+/* Global */
+
+/* Fill screen */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body,
+#___gatsby,
+div[role="group"][tabindex] {
+  height: 100%;
+}
